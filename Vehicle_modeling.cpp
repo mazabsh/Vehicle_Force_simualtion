@@ -1,4 +1,4 @@
-#inlcude<iostream>
+#include<iostream>
 #include<vector>
 #include<memory>
 #include<cmath>
